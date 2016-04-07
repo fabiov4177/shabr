@@ -14,5 +14,4 @@ li a.active {
 
 li a:hover:not(.active) {
     background-color: lightblue;
-    text-color: #;
 }
