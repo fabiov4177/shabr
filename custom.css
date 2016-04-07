@@ -9,7 +9,7 @@ h1 {
 }
 li a.active {
     background-color: lightblue;
-    color: white;
+    color: navy;
 }
 
 li a:hover:not(.active) {
