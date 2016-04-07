@@ -7,6 +7,12 @@ body {
 h1 {
     color: white;
 }
+<<<<<<< HEAD
+
+.jumbotron {
+    background-color: black;
+    color: white;
+=======
 li a.active {
     background-color: lightblue;
     color: navy;
@@ -14,4 +20,5 @@ li a.active {
 
 li a:hover:not(.active) {
     background-color: lightblue;
+>>>>>>> e7f405219036608aebbba1ec761fa15b5b7990ac
 }
