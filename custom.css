@@ -1,36 +1,46 @@
 .title {
     text-align: center;
 }
+
 body {
     background-color: #7DDCF0;
+    font-family: 'Raleway', sans-serif;
 }
+
 h1 {
     color: white;
-    font-family:'Indie Flower', cursive;
+    font-family: 'Raleway', sans-serif;
 }
+
 p {
     color: gray;
-    font-family:'Indie Flower', cursive;
+    font-family: 'Raleway', sans-serif;
 }
+
 .jumbotron {
     background-color: black;
     color: white;
-
+    font-family: 'Raleway', sans-serif;
     width: 100%;
 }
+
 #contacth1 {
     color: purple;
     text-align: center;
-    font-size:60px;
-    font-family:'Indie Flower', cursive;
+    font-size: 60px;
+    font-family: 'Raleway', sans-serif;
 }
+
 #address {
-    font-size:30px;
+    font-size: 30px;
     text-align: center;
+    font-family: 'Raleway', sans-serif;
 }
+
 footer {
     text-align: center;
 }
+
 span {
-    color:black;
+    color: black;
 }
