@@ -11,12 +11,14 @@ h1 {
 .jumbotron {
     background-color: black;
     color: white;
+
     width: 100%;
 
 li a.active {
     background-color: lightblue;
     color: navy;
-}
 
-li a:hover:not(.active) {
-    background-color: lightblue;
+
+#contacth1 {
+    color: purple;
+}
