@@ -2,12 +2,6 @@
     text-align: center;
 }
 
-h3 {
-    font-size: 40px;
-    color: purple;
-    text-align: center;
-}
-
 body {
     /*background-color: #1241FF;*/
     
@@ -36,6 +30,11 @@ p {
     color: white;
     font-family: 'Raleway', sans-serif;
     width: 100%;
+}
+
+.jumbotron1 {
+    color: blue;
+    background-color: #9AFBFF;
 }
 
 #contacth1 {
@@ -71,7 +70,13 @@ span {
     color: black;
 }
 
-#test {
-    font-style: italic
+#tests {
+    color: gray;
+}
+
+.testimonials {
+    font-size: 40px;
+    color: purple;
+    text-align: center;
 }
 
