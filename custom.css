@@ -22,12 +22,12 @@ h1 {
 }
 
 h3 {
-    color:purple;
+    color:white;
     text-align: center;
 }
 
 p {
-    color: gray;
+    color: black;
     font-family: 'Raleway', sans-serif;
 }
 
@@ -72,12 +72,18 @@ span {
     float: left;
 }
 
+@media only screen and (max-width: 500px) {
+    p {
+        font-family: 'Oswald', sans-serif; font-weight: 400;
+    }
+}
+
 #subhead {
     color: black;
 }
 
 .tests {
-    color: purple;
+    color: white;
     text-align: center;
     font-family: 'Raleway', sans-serif;
 }
