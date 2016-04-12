@@ -79,9 +79,7 @@ span {
 .tests {
     color: purple;
     text-align: center;
+    font-family: 'Raleway', sans-serif;
 }
 
-#testsTitle {
-    color:#33ccff;
-}
 
