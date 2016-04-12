@@ -76,13 +76,12 @@ span {
     color: black;
 }
 
-#tests {
-    color: gray;
-}
-
-.testimonials {
-    font-size: 40px;
+.tests {
     color: purple;
     text-align: center;
+}
+
+#testsTitle {
+    color:#33ccff;
 }
 
